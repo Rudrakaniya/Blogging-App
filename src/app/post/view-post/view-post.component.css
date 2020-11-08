@@ -22,7 +22,7 @@
 
 .post-text {
   margin-top: 10px;
-}
+}https://fast.com/
 
 .post {
   --post-line-color: #ccc;
@@ -30,7 +30,7 @@
   margin-top: 10px;
   margin-bottom: 10px;
   overflow: hidden;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: white;
   color: #878a8c;
   position: relative;
   border-radius: 4px;
@@ -42,7 +42,7 @@
   border: 1px solid #ccc;
   margin-bottom: 10px;
   overflow: hidden;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: white;
   color: #878a8c;
   position: relative;
   border-radius: 4px;
